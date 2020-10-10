@@ -1,2 +1,2 @@
 # grip_task
-#task_1 predicting the percentage of marks of n student based on the study hours.
+#task_1 predicting the percentage of marks of student based on the study hours.
